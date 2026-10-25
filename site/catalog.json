@@ -1,113 +1,113 @@
 {
   "licenses": [
     {
-      "id": "cached-l-0",
+      "id": "rakuten-securities-1",
       "name": "RAKUTEN SECURITIES 1",
       "mode": "SIGNED",
-      "installUrl": null,
+      "installUrl": "itms-services://?action=download-manifest&url=https%3A%2F%2Fapplejr.net%2Fpost%2Fksign_applejr_rakuten_autocert_encrypted_unsigned-6ad5b67c_bc4048c5.plist",
       "sourceUrl": "https://applejr.net/#ksign"
     },
     {
-      "id": "cached-l-1",
+      "id": "rakuten-securities-2",
       "name": "RAKUTEN SECURITIES 2",
       "mode": "SIGNED",
-      "installUrl": null,
+      "installUrl": "itms-services://?action=download-manifest&url=https://applejr.net/post/KSign_APPLEJR_RAKUTEN_AUTOCERT_ENCRYPTED_UNSIGNED_3ed72759.plist",
       "sourceUrl": "https://applejr.net/#ksign"
     },
     {
-      "id": "cached-l-2",
+      "id": "beihang-university",
       "name": "Beihang University",
       "mode": "DNS",
-      "installUrl": null,
+      "installUrl": "itms-services://?action=download-manifest&url=https%3A%2F%2Fskibiditech.co%2Fmanifest.php%3Fbid%3Dnya.skibidi.ksign%26certID%3DZXB3TS7QD4%26name%3DKSign",
       "sourceUrl": "https://applejr.net/#ksign"
     },
     {
-      "id": "cached-l-3",
+      "id": "vinwash",
       "name": "VINWASH",
       "mode": "DNS",
-      "installUrl": null,
+      "installUrl": "itms-services://?action=download-manifest&url=https://website.khoindvn.io.vn/plists/gmkhipcnkilk.plist",
       "sourceUrl": "https://applejr.net/#ksign"
     },
     {
-      "id": "cached-l-4",
+      "id": "hsbc-bank",
       "name": "HSBC Bank",
       "mode": "DNS",
-      "installUrl": null,
+      "installUrl": "itms-services://?action=download-manifest&url=https://applejr.ipadownloads.com/signed/ipainstaller/ksignsigned.plist",
       "sourceUrl": "https://applejr.net/#ksign"
     },
     {
-      "id": "cached-l-5",
+      "id": "cenpower",
       "name": "CenPower",
       "mode": "DNS",
-      "installUrl": null,
+      "installUrl": "itms-services://?action=download-manifest&url=https://applejr.net/post/ksigncen.plist",
       "sourceUrl": "https://applejr.net/#ksign"
     },
     {
-      "id": "cached-l-6",
+      "id": "jiangsu-simcere",
       "name": "Jiangsu Simcere",
       "mode": "DNS",
-      "installUrl": null,
+      "installUrl": "itms-services://?action=download-manifest&url=https://github.com/royilkom-alt/applejrtools/raw/refs/heads/main/utdectxvchbd.plist",
       "sourceUrl": "https://applejr.net/#ksign"
     },
     {
-      "id": "cached-l-7",
+      "id": "vietnam-rubber",
       "name": "Vietnam Rubber",
       "mode": "DNS",
-      "installUrl": null,
+      "installUrl": "itms-services://?action=download-manifest&url=https://applejr.net/post/vietksign.plist",
       "sourceUrl": "https://applejr.net/#ksign"
     },
     {
-      "id": "cached-l-8",
+      "id": "moving-increasingly",
       "name": "Moving Increasingly",
       "mode": "DNS",
-      "installUrl": null,
+      "installUrl": "itms-services://?action=download-manifest&url=https://github.com/royilkom-alt/applejr-nabz-repo/raw/refs/heads/main/msaa.plist",
       "sourceUrl": "https://applejr.net/#ksign"
     },
     {
-      "id": "cached-l-9",
+      "id": "vietnam-airlines",
       "name": "Vietnam Airlines",
       "mode": "DNS",
-      "installUrl": null,
+      "installUrl": "itms-services://?action=download-manifest&url=https://applejr.net/post/H663873Z9V_682b9973.plist",
       "sourceUrl": "https://applejr.net/#ksign"
     },
     {
-      "id": "cached-l-10",
+      "id": "china-telecom",
       "name": "China Telecom",
       "mode": "DNS",
-      "installUrl": null,
+      "installUrl": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/royilkom-alt/applejr-nabz-repo/refs/heads/main/ksignplistnewchin.plist",
       "sourceUrl": "https://applejr.net/#ksign"
     },
     {
-      "id": "cached-l-11",
+      "id": "xibei",
       "name": "Xibei",
       "mode": "DNS",
-      "installUrl": null,
+      "installUrl": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/haduongyenn-ui/haduongyenn-ui.github.io/refs/heads/main/plist/aiwjy.plist",
       "sourceUrl": "https://applejr.net/#ksign"
     },
     {
-      "id": "cached-l-12",
+      "id": "luoyang",
       "name": "Luoyang",
       "mode": "DNS",
-      "installUrl": null,
+      "installUrl": "itms-services://?action=download-manifest&url=https://applejr.net/post/Ksign11.plist",
       "sourceUrl": "https://applejr.net/#ksign"
     },
     {
-      "id": "cached-l-13",
-      "name": "Aramco Services",
+      "id": "aramco-services",
+      "name": "• Aramco Services",
       "mode": "OTHER",
-      "installUrl": null,
+      "installUrl": "https://api.khoindvn.io.vn/a71JoP",
       "sourceUrl": "https://applejr.net/#ksign"
     },
     {
-      "id": "cached-l-14",
-      "name": "Beijing Zhizhangyi Inc.",
+      "id": "beijing-zhizhangyi-inc",
+      "name": "• Beijing Zhizhangyi Inc.",
       "mode": "OTHER",
-      "installUrl": null,
+      "installUrl": "itms-services://?action=download-manifest&url=https://github.com/haduongyenn-ui/haduongyenn-ui.github.io/raw/refs/heads/main/Plist/ojrma.plist",
       "sourceUrl": "https://applejr.net/#ksign"
     },
     {
-      "id": "cached-l-15",
-      "name": "XL AXIATA",
+      "id": "xl-axiata",
+      "name": "• XL AXIATA",
       "mode": "OTHER",
       "installUrl": "https://applejr.net/post/download/gate.html?t=eyJ5IjoiaHR0cHM6Ly93d3cueW91dHViZS5jb20vQGFwcGxlanIzNjQ1P3N1Yl9jb25maXJtYXRpb249MSIsImQiOiJpdG1zLXNlcnZpY2VzOi8vP2FjdGlvbj1kb3dubG9hZC1tYW5pZmVzdCZ1cmw9aHR0cHM6Ly9hcHBsZWpyLm5ldC9wb3N0L0tzaWduX1hMLnBsaXN0In0",
       "sourceUrl": "https://applejr.net/#ksign"
@@ -115,101 +115,115 @@
   ],
   "certificates": [
     {
-      "id": "cached-c-0",
+      "id": "rakuten-securities-inc",
       "name": "RAKUTEN SECURITIES,INC.",
       "mode": "SIGNED",
-      "downloadUrl": null,
+      "downloadUrl": "https://github.com/royilkom-alt/AppleJr/raw/refs/heads/main/RAKUTEN%20SECURITIES,INC.zip",
       "sourceUrl": "https://applejr.net/#certs"
     },
     {
-      "id": "cached-c-1",
+      "id": "hsbc-bank",
       "name": "HSBC Bank",
       "mode": "DNS",
-      "downloadUrl": null,
+      "downloadUrl": "https://github.com/royilkom-alt/AppleJr/raw/refs/heads/main/HSBC%20Bank.zip",
       "sourceUrl": "https://applejr.net/#certs"
     },
     {
-      "id": "cached-c-2",
+      "id": "central-power",
       "name": "Central Power",
       "mode": "DNS",
-      "downloadUrl": null,
+      "downloadUrl": "https://github.com/royilkom-alt/AppleJr/raw/refs/heads/main/CentralPower.zip",
       "sourceUrl": "https://applejr.net/#certs"
     },
     {
-      "id": "cached-c-3",
+      "id": "jiangsu-simcere",
       "name": "Jiangsu Simcere",
       "mode": "DNS",
-      "downloadUrl": null,
+      "downloadUrl": "https://github.com/royilkom-alt/AppleJr/raw/refs/heads/main/Jiangsu%20Simcere.zip",
       "sourceUrl": "https://applejr.net/#certs"
     },
     {
-      "id": "cached-c-4",
+      "id": "vietnam-rubber",
       "name": "Vietnam Rubber",
       "mode": "DNS",
-      "downloadUrl": null,
+      "downloadUrl": "https://github.com/royilkom-alt/AppleJr/raw/refs/heads/main/VietRubber.zip",
       "sourceUrl": "https://applejr.net/#certs"
     },
     {
-      "id": "cached-c-5",
+      "id": "moving-increasingly",
       "name": "Moving Increasingly",
       "mode": "DNS",
-      "downloadUrl": null,
+      "downloadUrl": "https://github.com/royilkom-alt/AppleJr/raw/refs/heads/main/Moving.zip",
       "sourceUrl": "https://applejr.net/#certs"
     },
     {
-      "id": "cached-c-6",
+      "id": "vietnam-airlines",
       "name": "Vietnam Airlines",
       "mode": "DNS",
-      "downloadUrl": null,
+      "downloadUrl": "https://github.com/royilkom-alt/AppleJr/blob/main/vietnam.zip",
       "sourceUrl": "https://applejr.net/#certs"
     },
     {
-      "id": "cached-c-7",
+      "id": "china-telecom",
       "name": "China Telecom",
       "mode": "DNS",
-      "downloadUrl": null,
+      "downloadUrl": "https://github.com/royilkom-alt/AppleJr/raw/refs/heads/main/China%20Telecom%20Corporation%20Limited.zip",
       "sourceUrl": "https://applejr.net/#certs"
     },
     {
-      "id": "cached-c-8",
+      "id": "xibei",
       "name": "Xibei",
       "mode": "DNS",
-      "downloadUrl": null,
+      "downloadUrl": "https://github.com/royilkom-alt/AppleJr/raw/refs/heads/main/Xibei.zip",
       "sourceUrl": "https://applejr.net/#certs"
     },
     {
-      "id": "cached-c-9",
+      "id": "aramco-services-company",
       "name": "Aramco Services Company",
       "mode": "DNS",
-      "downloadUrl": null,
+      "downloadUrl": "https://github.com/isolutionchannel/youtube/raw/refs/heads/main/Aramco%20Services%20Company.zip",
       "sourceUrl": "https://applejr.net/#certs"
     },
     {
-      "id": "cached-c-10",
+      "id": "luoyang-postal",
       "name": "Luoyang Postal",
       "mode": "DNS",
-      "downloadUrl": null,
+      "downloadUrl": "https://github.com/royilkom-alt/AppleJr/raw/refs/heads/main/Postal.zip",
       "sourceUrl": "https://applejr.net/#certs"
     },
     {
-      "id": "cached-c-11",
+      "id": "qingdao",
       "name": "Qingdao",
       "mode": "DNS",
-      "downloadUrl": null,
+      "downloadUrl": "https://github.com/royilkom-alt/AppleJr/raw/refs/heads/main/Rural.zip",
       "sourceUrl": "https://applejr.net/#certs"
     },
     {
-      "id": "cached-c-12",
+      "id": "xl-axiata-pt-tbk",
       "name": "XL AXIATA, PT TBK",
+      "mode": "OTHER",
+      "downloadUrl": "https://github.com/royilkom-alt/AppleJr/raw/refs/heads/main/XL.zip",
+      "sourceUrl": "https://applejr.net/#certs"
+    },
+    {
+      "id": "jailbreak-tools",
+      "name": "📚 Jailbreak Tools",
       "mode": "OTHER",
       "downloadUrl": null,
       "sourceUrl": "https://applejr.net/#certs"
+    },
+    {
+      "id": "delta-executor-ios",
+      "name": "Delta Executor iOS",
+      "mode": "SIGNED",
+      "downloadUrl": "itms-services://?action=download-manifest&url=https://delta.bz/manifest.plist",
+      "sourceUrl": "https://applejr.net/#certs"
     }
   ],
-  "dnsUrl": "https://applejr.ipadownloads.com/",
-  "lastUpdated": null,
+  "dnsUrl": "https://applejr.ipadownloads.com/signed/panel/AppleJr_AntiRevoke_Single.mobileconfig",
+  "lastUpdated": "2026-10-25T06:25:29.607Z",
   "refreshIntervalSeconds": 120,
-  "live": false,
+  "live": true,
   "source": "https://applejr.net/",
-  "warning": "Saved catalog. GitHub Actions refreshes the catalog when AppleJr is available."
+  "warning": null
 }
