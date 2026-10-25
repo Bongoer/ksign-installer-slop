@@ -1,0 +1,215 @@
+{
+  "licenses": [
+    {
+      "id": "cached-l-0",
+      "name": "RAKUTEN SECURITIES 1",
+      "mode": "SIGNED",
+      "installUrl": null,
+      "sourceUrl": "https://applejr.net/#ksign"
+    },
+    {
+      "id": "cached-l-1",
+      "name": "RAKUTEN SECURITIES 2",
+      "mode": "SIGNED",
+      "installUrl": null,
+      "sourceUrl": "https://applejr.net/#ksign"
+    },
+    {
+      "id": "cached-l-2",
+      "name": "Beihang University",
+      "mode": "DNS",
+      "installUrl": null,
+      "sourceUrl": "https://applejr.net/#ksign"
+    },
+    {
+      "id": "cached-l-3",
+      "name": "VINWASH",
+      "mode": "DNS",
+      "installUrl": null,
+      "sourceUrl": "https://applejr.net/#ksign"
+    },
+    {
+      "id": "cached-l-4",
+      "name": "HSBC Bank",
+      "mode": "DNS",
+      "installUrl": null,
+      "sourceUrl": "https://applejr.net/#ksign"
+    },
+    {
+      "id": "cached-l-5",
+      "name": "CenPower",
+      "mode": "DNS",
+      "installUrl": null,
+      "sourceUrl": "https://applejr.net/#ksign"
+    },
+    {
+      "id": "cached-l-6",
+      "name": "Jiangsu Simcere",
+      "mode": "DNS",
+      "installUrl": null,
+      "sourceUrl": "https://applejr.net/#ksign"
+    },
+    {
+      "id": "cached-l-7",
+      "name": "Vietnam Rubber",
+      "mode": "DNS",
+      "installUrl": null,
+      "sourceUrl": "https://applejr.net/#ksign"
+    },
+    {
+      "id": "cached-l-8",
+      "name": "Moving Increasingly",
+      "mode": "DNS",
+      "installUrl": null,
+      "sourceUrl": "https://applejr.net/#ksign"
+    },
+    {
+      "id": "cached-l-9",
+      "name": "Vietnam Airlines",
+      "mode": "DNS",
+      "installUrl": null,
+      "sourceUrl": "https://applejr.net/#ksign"
+    },
+    {
+      "id": "cached-l-10",
+      "name": "China Telecom",
+      "mode": "DNS",
+      "installUrl": null,
+      "sourceUrl": "https://applejr.net/#ksign"
+    },
+    {
+      "id": "cached-l-11",
+      "name": "Xibei",
+      "mode": "DNS",
+      "installUrl": null,
+      "sourceUrl": "https://applejr.net/#ksign"
+    },
+    {
+      "id": "cached-l-12",
+      "name": "Luoyang",
+      "mode": "DNS",
+      "installUrl": null,
+      "sourceUrl": "https://applejr.net/#ksign"
+    },
+    {
+      "id": "cached-l-13",
+      "name": "Aramco Services",
+      "mode": "OTHER",
+      "installUrl": null,
+      "sourceUrl": "https://applejr.net/#ksign"
+    },
+    {
+      "id": "cached-l-14",
+      "name": "Beijing Zhizhangyi Inc.",
+      "mode": "OTHER",
+      "installUrl": null,
+      "sourceUrl": "https://applejr.net/#ksign"
+    },
+    {
+      "id": "cached-l-15",
+      "name": "XL AXIATA",
+      "mode": "OTHER",
+      "installUrl": "https://applejr.net/post/download/gate.html?t=eyJ5IjoiaHR0cHM6Ly93d3cueW91dHViZS5jb20vQGFwcGxlanIzNjQ1P3N1Yl9jb25maXJtYXRpb249MSIsImQiOiJpdG1zLXNlcnZpY2VzOi8vP2FjdGlvbj1kb3dubG9hZC1tYW5pZmVzdCZ1cmw9aHR0cHM6Ly9hcHBsZWpyLm5ldC9wb3N0L0tzaWduX1hMLnBsaXN0In0",
+      "sourceUrl": "https://applejr.net/#ksign"
+    }
+  ],
+  "certificates": [
+    {
+      "id": "cached-c-0",
+      "name": "RAKUTEN SECURITIES,INC.",
+      "mode": "SIGNED",
+      "downloadUrl": null,
+      "sourceUrl": "https://applejr.net/#certs"
+    },
+    {
+      "id": "cached-c-1",
+      "name": "HSBC Bank",
+      "mode": "DNS",
+      "downloadUrl": null,
+      "sourceUrl": "https://applejr.net/#certs"
+    },
+    {
+      "id": "cached-c-2",
+      "name": "Central Power",
+      "mode": "DNS",
+      "downloadUrl": null,
+      "sourceUrl": "https://applejr.net/#certs"
+    },
+    {
+      "id": "cached-c-3",
+      "name": "Jiangsu Simcere",
+      "mode": "DNS",
+      "downloadUrl": null,
+      "sourceUrl": "https://applejr.net/#certs"
+    },
+    {
+      "id": "cached-c-4",
+      "name": "Vietnam Rubber",
+      "mode": "DNS",
+      "downloadUrl": null,
+      "sourceUrl": "https://applejr.net/#certs"
+    },
+    {
+      "id": "cached-c-5",
+      "name": "Moving Increasingly",
+      "mode": "DNS",
+      "downloadUrl": null,
+      "sourceUrl": "https://applejr.net/#certs"
+    },
+    {
+      "id": "cached-c-6",
+      "name": "Vietnam Airlines",
+      "mode": "DNS",
+      "downloadUrl": null,
+      "sourceUrl": "https://applejr.net/#certs"
+    },
+    {
+      "id": "cached-c-7",
+      "name": "China Telecom",
+      "mode": "DNS",
+      "downloadUrl": null,
+      "sourceUrl": "https://applejr.net/#certs"
+    },
+    {
+      "id": "cached-c-8",
+      "name": "Xibei",
+      "mode": "DNS",
+      "downloadUrl": null,
+      "sourceUrl": "https://applejr.net/#certs"
+    },
+    {
+      "id": "cached-c-9",
+      "name": "Aramco Services Company",
+      "mode": "DNS",
+      "downloadUrl": null,
+      "sourceUrl": "https://applejr.net/#certs"
+    },
+    {
+      "id": "cached-c-10",
+      "name": "Luoyang Postal",
+      "mode": "DNS",
+      "downloadUrl": null,
+      "sourceUrl": "https://applejr.net/#certs"
+    },
+    {
+      "id": "cached-c-11",
+      "name": "Qingdao",
+      "mode": "DNS",
+      "downloadUrl": null,
+      "sourceUrl": "https://applejr.net/#certs"
+    },
+    {
+      "id": "cached-c-12",
+      "name": "XL AXIATA, PT TBK",
+      "mode": "OTHER",
+      "downloadUrl": null,
+      "sourceUrl": "https://applejr.net/#certs"
+    }
+  ],
+  "dnsUrl": "https://applejr.ipadownloads.com/",
+  "lastUpdated": null,
+  "refreshIntervalSeconds": 120,
+  "live": false,
+  "source": "https://applejr.net/",
+  "warning": "Saved catalog. GitHub Actions refreshes the catalog when AppleJr is available."
+}

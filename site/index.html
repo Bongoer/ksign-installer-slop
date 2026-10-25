@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#f2f2f7">
+  <meta name="description" content="A simple KSign installer catalog from AppleJr.">
+  <title>KSign</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./style.css?v=6">
+  <script type="module" defer src="./app.js?v=6"></script>
+</head>
+<body>
+  <main class="page">
+    <div class="intro">
+      <h1>KSign</h1>
+      <p>Choose a signing option to install KSign.</p>
+    </div>
+
+    <section aria-labelledby="dns-heading" class="dns-section">
+      <div class="section-head"><h2 id="dns-heading">DNS</h2></div>
+      <a class="dns-row surface" id="dnsLink" href="https://applejr.ipadownloads.com/" rel="noopener noreferrer" target="_blank">
+        <span class="icon icon-dns" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none"><path d="M2.5 8.5a14.7 14.7 0 0 1 19 0M5.9 12a9.5 9.5 0 0 1 12.2 0m-8.8 3.6a4.5 4.5 0 0 1 5.4 0" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><circle cx="12" cy="19" r="1.25" fill="currentColor"/></svg></span>
+        <span class="row-copy"><span class="row-title">AppleJr DNS</span><span class="row-sub">Set up before installing</span></span>
+        <span class="row-action">Set up</span>
+        <svg class="chevron" viewBox="0 0 24 24" aria-hidden="true"><path d="m9 5 7 7-7 7"/></svg>
+      </a>
+    </section>
+
+    <section class="catalog-section" aria-labelledby="options-heading">
+      <div class="section-head"><h2 id="options-heading">Available</h2><button id="reload" class="reload" title="Refresh catalog" aria-label="Refresh catalog"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M20 7v5h-5M4 17v-5h5"/><path d="M5.6 9a7 7 0 0 1 12.1-2L20 12M4 12l2.3 5A7 7 0 0 0 18.4 15"/></svg></button></div>
+      <div class="segmented" role="tablist" aria-label="Catalog categories">
+        <button id="tabLicenses" role="tab" aria-controls="catalog" aria-selected="true" class="selected" type="button">Licenses</button>
+        <button id="tabCertificates" role="tab" aria-controls="catalog" aria-selected="false" type="button">Certificates</button>
+      </div>
+      <label class="search" for="search"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="10.7" cy="10.7" r="6.5"/><path d="m15.6 15.6 5.1 5.1"/></svg><input id="search" type="search" placeholder="Search" autocomplete="off" spellcheck="false"><kbd id="clearSearch" hidden>Clear</kbd></label>
+      <div class="list surface" id="catalog" role="tabpanel" aria-labelledby="tabLicenses"><div class="placeholder">Loading options...</div></div>
+      <div class="endnote" aria-live="polite"><span id="count"></span><span id="syncInfo">From AppleJr</span></div>
+    </section>
+    <footer><a href="https://applejr.net/" target="_blank" rel="noopener noreferrer">Data from AppleJr</a><span>Not affiliated with Apple or AppleJr.</span></footer>
+  </main>
+</body>
+</html>
