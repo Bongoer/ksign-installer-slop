@@ -3,15 +3,22 @@
     {
       "id": "rakuten-securities-1",
       "name": "RAKUTEN SECURITIES 1",
-      "mode": "SIGNED",
+      "mode": "DNS",
       "installUrl": "itms-services://?action=download-manifest&url=https%3A%2F%2Fapplejr.net%2Fpost%2Fksign_applejr_rakuten_autocert_encrypted_unsigned-6ad5b67c_bc4048c5.plist",
       "sourceUrl": "https://applejr.net/#ksign"
     },
     {
       "id": "rakuten-securities-2",
       "name": "RAKUTEN SECURITIES 2",
-      "mode": "SIGNED",
+      "mode": "DNS",
       "installUrl": "itms-services://?action=download-manifest&url=https://applejr.net/post/KSign_APPLEJR_RAKUTEN_AUTOCERT_ENCRYPTED_UNSIGNED_3ed72759.plist",
+      "sourceUrl": "https://applejr.net/#ksign"
+    },
+    {
+      "id": "rural",
+      "name": "Rural",
+      "mode": "DNS",
+      "installUrl": "itms-services://?action=download-manifest&url=https%3A%2F%2Fapplejr.net%2Fpost%2FKSign_APPLEJR_RURAL_AUTOCERT_ENCRYPTED_UNSIGNED_1fc7aace.plist",
       "sourceUrl": "https://applejr.net/#ksign"
     },
     {
@@ -117,7 +124,7 @@
     {
       "id": "rakuten-securities-inc",
       "name": "RAKUTEN SECURITIES,INC.",
-      "mode": "SIGNED",
+      "mode": "DNS",
       "downloadUrl": "https://github.com/royilkom-alt/AppleJr/raw/refs/heads/main/RAKUTEN%20SECURITIES,INC.zip",
       "sourceUrl": "https://applejr.net/#certs"
     },
@@ -221,7 +228,7 @@
     }
   ],
   "dnsUrl": "https://applejr.ipadownloads.com/signed/panel/AppleJr_AntiRevoke_Single.mobileconfig",
-  "lastUpdated": "2026-10-25T06:25:29.607Z",
+  "lastUpdated": "2026-10-26T22:55:05.460Z",
   "refreshIntervalSeconds": 120,
   "live": true,
   "source": "https://applejr.net/",
