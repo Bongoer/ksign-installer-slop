@@ -223,12 +223,12 @@
       "id": "delta-executor-ios",
       "name": "Delta Executor iOS",
       "mode": "SIGNED",
-      "downloadUrl": "itms-services://?action=download-manifest&url=https://delta.bz/manifest.plist",
+      "downloadUrl": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/royilkom-alt/downloads/refs/heads/main/delta-executor-ios-directinstall.plist",
       "sourceUrl": "https://applejr.net/#certs"
     }
   ],
   "dnsUrl": "https://applejr.ipadownloads.com/signed/panel/AppleJr_AntiRevoke_Single.mobileconfig",
-  "lastUpdated": "2026-10-26T22:55:05.460Z",
+  "lastUpdated": "2026-10-27T01:42:50.856Z",
   "refreshIntervalSeconds": 120,
   "live": true,
   "source": "https://applejr.net/",
