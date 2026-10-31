@@ -4,21 +4,21 @@
       "id": "rakuten-securities-1",
       "name": "RAKUTEN SECURITIES 1",
       "mode": "DNS",
-      "installUrl": "itms-services://?action=download-manifest&url=https%3A%2F%2Fapplejr.net%2Fpost%2Fksign_applejr_rakuten_autocert_encrypted_unsigned-6ad5b67c_bc4048c5.plist",
+      "installUrl": "itms-services://?action=download-manifest&url=https%3A%2F%2Fapplejr.net%2F_aj%2Fm%2FDYuGM_i3WES8QFEjvkJrzl-HRpwriHBQhZ5PlrbtRJxDmmPOLvyUBKb0mKoQK20o8wN7ZF4DH-kMBp_TC_mtXDwOHs3F5FA2iqNP3OJP4uJIo301THcaUkMniye9chEU6RoyYbDEImhklmtxAAv4a5VV6B5X0ALXxag_oFOwCXSRYW9KRpvdCC4haHatbaf75fYrsDyime0Qz4tU_ay-0Xn3QYVwDPnVVMpVdHsP8ByPfNIzMXdbZLUN2FW9uEceOGqes4Jv1S8N1MTnAUqz11P9v_2R4px7wdfwWnznt95iROPm2-F3aHb6wFB9Aq8P7smdMBu_XtQ.plist",
       "sourceUrl": "https://applejr.net/#ksign"
     },
     {
       "id": "rakuten-securities-2",
       "name": "RAKUTEN SECURITIES 2",
       "mode": "DNS",
-      "installUrl": "itms-services://?action=download-manifest&url=https://applejr.net/post/KSign_APPLEJR_RAKUTEN_AUTOCERT_ENCRYPTED_UNSIGNED_3ed72759.plist",
+      "installUrl": "itms-services://?action=download-manifest&url=https%3A%2F%2Fapplejr.net%2F_aj%2Fm%2FFgq8OXeMgsKydFydPsc2uAKoxoQ_g1rZ_M8IUeKIrFaBeumP27uzk395y-Dz30QV9ZpZxeYITXTR_pbL1I1DNybfjhA9tf5iX2AJESNyLAmm-P_LRDnN7uypm50tykWieEEGAfMu0fYp9OC4GpNe3bZwcRvML8lzIQRcAk0upOXcjhNoaE1dsbqJZ2Z785hVQpaAVjrnMzywdDxw_kr1LGcMd1uwaGvVTSnEYj8MDSHM7IH3OsDgwyHyZq_t3-8k9kAhfTeh8B0frHXWM_8ggYtL1fs1YjN3tpUNlQrek14NF7hWexKxJ1UQutBxExo.plist",
       "sourceUrl": "https://applejr.net/#ksign"
     },
     {
       "id": "rural",
       "name": "Rural",
       "mode": "DNS",
-      "installUrl": "itms-services://?action=download-manifest&url=https%3A%2F%2Fapplejr.net%2Fpost%2FKSign_APPLEJR_RURAL_AUTOCERT_ENCRYPTED_UNSIGNED_1fc7aace.plist",
+      "installUrl": "itms-services://?action=download-manifest&url=https%3A%2F%2Fapplejr.net%2F_aj%2Fm%2FLRmpiQoZzx_eZddGn3ekK0LKJJbmIpWw_lORRuqSk1tD9uFF8pgBmWM-ccT9J_unWeF4sQKfLAO_xuNmLtxUs4obW3F_0qe1xSoFM33B9dP2-mLAiFVOLfmWBpRPgKDPGaAS1NYxMXMucMv8p6NqHy5Q35-WCXpkgPMicou7KJMSDaERVqenBRBAHkKCdo_DlKhpLakZTwfXjTUUXuJnt6E5P1H2sA3dO3z5_X9702m7hfx41iQ0TIOUeGROWOCV9a6NhCDLpzyntpSIk-_L9k3yrvwxccUH5ZtroHL9zUf82g2nNCIa_J1NJY_l.plist",
       "sourceUrl": "https://applejr.net/#ksign"
     },
     {
@@ -39,14 +39,14 @@
       "id": "hsbc-bank",
       "name": "HSBC Bank",
       "mode": "DNS",
-      "installUrl": "itms-services://?action=download-manifest&url=https://applejr.ipadownloads.com/signed/ipainstaller/ksignsigned.plist",
+      "installUrl": "itms-services://?action=download-manifest&url=https%3A%2F%2Fapplejr.net%2F_aj%2Fm%2F-lqBF9noFy6EXO38ogvUyK3C1UvYEiFEg1nqFH1DFxJPYC3VWBt4HwQs_hE9N0j5nkoSj346a6PC2m4LOo8dIAouzp-FRaBEuAj5ZCnKit_c5CqpENiL6zdllUrkmkBvZiq55mGy98tNt7ymcrP_9FVbOPD_s7v66TfZHEEGwR1p_z6vvyFWSDD-RcchMQeyuGP_JpFR3QhkDt-D7APwRryz5UzFHzSYI1YgXDWNksWECFShxlLO2OXuzUTdJQ8YYO0sLXCHhFhQ8EjEuvmxRPi7HQwRGLqCL2ztSw.plist",
       "sourceUrl": "https://applejr.net/#ksign"
     },
     {
       "id": "cenpower",
       "name": "CenPower",
       "mode": "DNS",
-      "installUrl": "itms-services://?action=download-manifest&url=https://applejr.net/post/ksigncen.plist",
+      "installUrl": "itms-services://?action=download-manifest&url=https%3A%2F%2Fapplejr.net%2F_aj%2Fm%2Fbe06TXlc85ZNYS_liloYJ5awP7U4czPyg3ol1QRNkL7y6ouRE4Onrq1kZVrlWdrxK_jG32VkufeH92HSWAaB4ZEm756eRihPNC9TqnfKIP0J1PMDu6iT1lrQUqJLxBRRSVyVw2TjP9sifq7fCcHwh6zJ68fsUTeBrVOybtpxb3WCuo4aM7-F54TeZC_be2bPpV4u5R5aoonVfrSYKMPUlBpBj-cZO2vvSlt5cFfke2FGnGL9LrV8aF2OmOsI.plist",
       "sourceUrl": "https://applejr.net/#ksign"
     },
     {
@@ -60,7 +60,7 @@
       "id": "vietnam-rubber",
       "name": "Vietnam Rubber",
       "mode": "DNS",
-      "installUrl": "itms-services://?action=download-manifest&url=https://applejr.net/post/vietksign.plist",
+      "installUrl": "itms-services://?action=download-manifest&url=https%3A%2F%2Fapplejr.net%2F_aj%2Fm%2FOj_9-vO-7xI5mPFAOmw4VsY7viJwqO0RU8vuTOLv7xRIrzao_IZff_GAsZljzezIFEF5DwvHnuLzRRXYe3974gd3NPEcL8qVzP-kreG73mvlG1r8aa9FTVvXMizchEnvQTsuoAmSFijtUi6_kIavsRQcG8EwrkxGLukdD9lat1m39YhHfH2_vdCrvz9P5s3vvoFjP8J8DWwFjxtQocVdFXisWCelIboYwH6WjK1A0qEzYZCkzQGeawDa3fKmEA.plist",
       "sourceUrl": "https://applejr.net/#ksign"
     },
     {
@@ -74,7 +74,7 @@
       "id": "vietnam-airlines",
       "name": "Vietnam Airlines",
       "mode": "DNS",
-      "installUrl": "itms-services://?action=download-manifest&url=https://applejr.net/post/H663873Z9V_682b9973.plist",
+      "installUrl": "itms-services://?action=download-manifest&url=https%3A%2F%2Fapplejr.net%2F_aj%2Fm%2FJWz2-vhoqAJXbXylNoBypBiuZjQA7YPEq8m9cjgMXSkSFh7PNl-6vsL9vwHwd8Rjy1lcMs5zRzmytDJ0yNQv0z2sLoZ5D9GeMqdMqzh2Jw537NkV-lRGTCdUZf6YUlD8wYjRj52iUvIp7JELExRkk-Qu-bY2Ii61H8vw9p2ymlpLrZpXfFJHWsYo46cOSluWED4xCJSuK-4bXxN8KlM0VKO4PQs79K6ON-m1wdTh-gHqa8Hg4Yo-PhC0gHIOZOPhu58oZWo4-qA.plist",
       "sourceUrl": "https://applejr.net/#ksign"
     },
     {
@@ -95,7 +95,7 @@
       "id": "luoyang",
       "name": "Luoyang",
       "mode": "DNS",
-      "installUrl": "itms-services://?action=download-manifest&url=https://applejr.net/post/Ksign11.plist",
+      "installUrl": "itms-services://?action=download-manifest&url=https%3A%2F%2Fapplejr.net%2F_aj%2Fm%2FJHO3W9oUiX1KK5cUuxRLSWFiaAA8XaxaH0-4YMhPSFG53S5xrOsZpc_hwtJkHtN0rvcbyy2oaL_YAAU2Xs7aI60NYetIXv68C7mgabAqOdcguWby5oBMnjkMDstAvjbTFYZ1uemWcHHcMVzM_FbVrzdIs7IM1NBpyoKegVVO1Sc1LeptWz4QRooaeDLvPctI5oEF3dh6QFApkuPPk8D74CrixDMfK9IBs0WEJ54BJp-0_5v240QopTr8J2s.plist",
       "sourceUrl": "https://applejr.net/#ksign"
     },
     {
@@ -228,7 +228,7 @@
     }
   ],
   "dnsUrl": "https://applejr.ipadownloads.com/signed/panel/AppleJr_AntiRevoke_Single.mobileconfig",
-  "lastUpdated": "2026-10-27T01:42:50.856Z",
+  "lastUpdated": "2026-10-31T17:37:44.422Z",
   "refreshIntervalSeconds": 120,
   "live": true,
   "source": "https://applejr.net/",
