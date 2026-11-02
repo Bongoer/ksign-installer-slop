@@ -1,6 +1,20 @@
 {
   "licenses": [
     {
+      "id": "rubber-1",
+      "name": "Rubber 1",
+      "mode": "DNS",
+      "installUrl": null,
+      "sourceUrl": "https://applejr.net/#ksign"
+    },
+    {
+      "id": "rubber-2",
+      "name": "Rubber 2",
+      "mode": "DNS",
+      "installUrl": null,
+      "sourceUrl": "https://applejr.net/#ksign"
+    },
+    {
       "id": "rakuten-securities-1",
       "name": "RAKUTEN SECURITIES 1",
       "mode": "DNS",
@@ -71,13 +85,6 @@
       "sourceUrl": "https://applejr.net/#ksign"
     },
     {
-      "id": "vietnam-airlines",
-      "name": "Vietnam Airlines",
-      "mode": "DNS",
-      "installUrl": null,
-      "sourceUrl": "https://applejr.net/#ksign"
-    },
-    {
       "id": "china-telecom",
       "name": "China Telecom",
       "mode": "DNS",
@@ -92,30 +99,9 @@
       "sourceUrl": "https://applejr.net/#ksign"
     },
     {
-      "id": "luoyang",
-      "name": "Luoyang",
-      "mode": "DNS",
-      "installUrl": null,
-      "sourceUrl": "https://applejr.net/#ksign"
-    },
-    {
-      "id": "aramco-services",
-      "name": "• Aramco Services",
-      "mode": "OTHER",
-      "installUrl": null,
-      "sourceUrl": "https://applejr.net/#ksign"
-    },
-    {
-      "id": "beijing-zhizhangyi-inc",
-      "name": "• Beijing Zhizhangyi Inc.",
-      "mode": "OTHER",
-      "installUrl": null,
-      "sourceUrl": "https://applejr.net/#ksign"
-    },
-    {
       "id": "xl-axiata",
-      "name": "• XL AXIATA",
-      "mode": "OTHER",
+      "name": "XL AXIATA",
+      "mode": "DNS",
       "installUrl": null,
       "sourceUrl": "https://applejr.net/#ksign"
     }
@@ -228,7 +214,7 @@
     }
   ],
   "dnsUrl": "https://applejr.ipadownloads.com/signed/panel/AppleJr_AntiRevoke_Single.mobileconfig",
-  "lastUpdated": "2026-10-31T23:42:51.264Z",
+  "lastUpdated": "2026-11-02T20:16:11.059Z",
   "refreshIntervalSeconds": 120,
   "live": true,
   "source": "https://applejr.net/",
