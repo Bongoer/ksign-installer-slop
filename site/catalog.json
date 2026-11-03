@@ -213,8 +213,8 @@
       "sourceUrl": "https://applejr.net/#certs"
     }
   ],
-  "dnsUrl": "https://applejr.ipadownloads.com/signed/panel/AppleJr_AntiRevoke_Single.mobileconfig",
-  "lastUpdated": "2026-11-02T20:16:11.059Z",
+  "dnsUrl": "https://applejr.ipadownloads.com/",
+  "lastUpdated": "2026-11-03T17:21:16.956Z",
   "refreshIntervalSeconds": 120,
   "live": true,
   "source": "https://applejr.net/",
