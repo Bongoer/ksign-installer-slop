@@ -209,12 +209,12 @@
       "id": "delta-executor-ios",
       "name": "Delta Executor iOS",
       "mode": "SIGNED",
-      "downloadUrl": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/royilkom-alt/downloads/refs/heads/main/delta-executor-ios-directinstall.plist",
+      "downloadUrl": "https://applejr.net/delta",
       "sourceUrl": "https://applejr.net/#certs"
     }
   ],
   "dnsUrl": "https://applejr.ipadownloads.com/",
-  "lastUpdated": "2026-11-03T17:21:16.956Z",
+  "lastUpdated": "2026-11-08T01:53:46.909Z",
   "refreshIntervalSeconds": 120,
   "live": true,
   "source": "https://applejr.net/",
