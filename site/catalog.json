@@ -206,6 +206,13 @@
       "sourceUrl": "https://applejr.net/#certs"
     },
     {
+      "id": "games-catalog",
+      "name": "Games Catalog",
+      "mode": "OTHER",
+      "downloadUrl": null,
+      "sourceUrl": "https://applejr.net/#certs"
+    },
+    {
       "id": "delta-executor-ios",
       "name": "Delta Executor iOS",
       "mode": "SIGNED",
@@ -214,7 +221,7 @@
     }
   ],
   "dnsUrl": "https://applejr.ipadownloads.com/",
-  "lastUpdated": "2026-11-08T01:53:46.909Z",
+  "lastUpdated": "2026-11-09T20:43:31.479Z",
   "refreshIntervalSeconds": 120,
   "live": true,
   "source": "https://applejr.net/",
